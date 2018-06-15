@@ -1,9 +1,10 @@
 baseURL = "http://dream-plus.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "UtkarshVerma's Blog"
+title = "JustDevOps"
 theme = "dream-plus"
-themesDir = "../../"   #Don't use this, only for netlify
+themesDir="."
+#themesDir = "../../"   #Don't use this, only for netlify
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
@@ -17,8 +18,8 @@ enableRobotsTXT = true
 enableEmoji=true
 
 [params]
-	author = "Utkarsh Verma"
-	description = "Just a random blog for random stuff, mostly tech-related."
+	author = "Sandeep Nemuri"
+	description = "Just a random blog for devops and bigdata stuff."
 	avatar = "https://raw.githubusercontent.com/UtkarshVerma/blog/source/static/images/myavatar.jpg"
 	motto = "A keen maker, programmer and an Instructables author."
 	enableToc = true
@@ -45,9 +46,9 @@ enableEmoji=true
 	twitterEmoji=true
 
 [social]
-	email = "utkarshverma@pm.me"
-	github = "UtkarshVerma"
-	stackoverflow = "9271608/utkarsh-verma"
-	medium = "UtkarshVerma_"
-	twitter = "UtkarshVerma_" 
+	email = "nhsandeep6@gmail.com"
+	github = "snemuri"
+	stackoverflow = ""
+	medium = ""
+	twitter = "sandeepnemuri" 
 	siteStartYear = 2018
