@@ -3,8 +3,8 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "JustDevOps"
 theme = "dream-plus"
-themesDir="."
-#themesDir = "../../"   #Don't use this, only for netlify
+#themesDir="."
+themesDir = "../../"   #Don't use this, only for netlify
 
 pygmentsCodeFences = true
 pygmentsUseClasses = true
