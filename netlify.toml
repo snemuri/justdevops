@@ -1,6 +1,6 @@
 [build]
-  publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --theme repo"
+  publish = "justdevops/public"
+  command = "cd justdevops && hugo --theme repo"
 
 [context.production]
   [context.production.environment]
